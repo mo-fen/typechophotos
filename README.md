@@ -1,0 +1,2 @@
+# typechophotos
+typecho图床
